@@ -1,6 +1,7 @@
 /*
  * Programa para el programa Detector de Sintomas COVID
  * por: Miguel Peralta
+ * Creditos al profesor Hugo Escalpelo Instructor del Curso IoT y a Codigo IoT 
  * Fecha: 30 de agosto del 2022
  * 
  * La función de este programa es realizar la lectrua de los sensores MAX30102 y MLX90614
