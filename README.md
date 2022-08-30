@@ -8,8 +8,8 @@ Dentro de este repositorio encontraremos todo lo necesario para realizar un dete
 # Instrucciones para configurar la base de Datos
 
 1. Instalar mysql server
-	-sudo apt update
-	-sudo apt install mysql-server
+	> sudo apt update
+	> sudo apt install mysql-server
 2. Entrar a mysql
 	-sudo mysql
 3. Crear una nueva base de datos
