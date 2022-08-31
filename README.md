@@ -24,7 +24,7 @@ Instrucciones para configurar la base de Datos
 	
 4. Seleccionar base de datos
 
-	`use DetectorSintomas`
+	`use DetectorSintomas;`
 	
 5. Crear una tabla llamada registro que contenga los campos necesarios
 
@@ -33,4 +33,6 @@ Instrucciones para configurar la base de Datos
 5. Salir de mysql
 
 	`exit;`
+	
+## Desarrollo 
   
