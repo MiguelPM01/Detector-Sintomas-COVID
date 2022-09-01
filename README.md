@@ -35,3 +35,4 @@ Dentro de este repositorio encontraremos todo lo necesario para realizar un dete
 	
 ## Desarrollo 
   
+  [(https://github.com/MiguelPM01/Detector-Sintomas-COVID/blob/main/ESP32CAM-MQTT-MLX90614-MAX30102-JSON/ESP32CAM-MQTT-MLX90614-MAX30102/ESP32CAM-MQTT-MLX90614-MAX30102.ino)]
