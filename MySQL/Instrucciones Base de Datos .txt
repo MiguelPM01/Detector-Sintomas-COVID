@@ -1,0 +1,27 @@
+Nota: Todos los comandos que a continuación se muestran serán utilizados en la terminal de nuestro sistema Operativo Ubuntu
+
+Instalar mysql server por terminal 
+
+sudo apt update
+
+sudo apt install mysql-server
+
+Entrar a mysql
+
+sudo mysql
+
+Crear una nueva base de datos
+
+create database DetectorSintomas;
+
+Seleccionar base de datos
+
+use DetectorSintomas;
+
+Crear una tabla llamada registro que contenga los campos necesarios
+
+-CREATE TABLE registro (id int(6) UNSIGNED AUTO_INCREMENT KEY, fecha TIMESTAMP DEFAULT CURRENT_TIMESTAMP, nombre char(248) NOT NULL, correo char(248) NOT NULL, temp FLOAT(4,2) NOT NULL,bpm INT(1) UNSIGNED NOT NULL,sp02 INT(1) UNSIGNED NOT NULL, protodiagnostico CHAR(248) NOT NULL);
+
+Salir de mysql
+
+exit;
