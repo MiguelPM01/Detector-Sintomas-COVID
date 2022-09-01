@@ -1,7 +1,7 @@
 /*
  * Programa para el programa Detector de Sintomas COVID
  * por: Miguel Peralta
- * Creditos al profesor Hugo Escalpelo Instructor del Curso IoT y a Codigo IoT 
+ * Creditos al profesor Hugo Escalpelo Instructor del Curso IoT y a Código IoT 
  * Fecha: 30 de agosto del 2022
  * 
  * Basado en: Optical SP02 Detection (SPK Algorithm) using the MAX30105 Brakout
