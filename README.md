@@ -34,29 +34,29 @@ Dentro de este repositorio encontraremos todo lo necesario para realizar un dete
 	`exit;`
 	
 ## Materiales electrónicos / sensores a utilizar
--Protoboard.
+- Protoboard.
 
--Jumpers.
+- Jumpers.
 
--Microcontrolador ESP32CAM.
+- Microcontrolador ESP32CAM.
 
--2 Resistencias de 4.7 K Ω.
+- 2 Resistencias de 4.7 K Ω.
 
--Sensor MAX30102 para ritmo cardíaco y saturación de Oxígeno.
+- Sensor MAX30102 para ritmo cardíaco y saturación de Oxígeno.
 
--Sensor de temperatura MLX90614.
+- Sensor de temperatura MLX90614.
 
--Convertidor FTDI TTL-USB Serial Fy232RL.
+- Convertidor FTDI TTL-USB Serial Fy232RL.
 
--Cable micro USB a USB.
+- Cable micro USB a USB.
 
 ## Software a Utilizar
--Máquina virtual con sistema operativo Ubuntu, de preferencia la versión 20.04 LTS.
--IDE de Arduino para Ubuntu.
+- Máquina virtual con sistema operativo Ubuntu, de preferencia la versión 20.04 LTS.
+- IDE de Arduino para Ubuntu.
 - Bibliotecas para los sensores MLX90614, MAX30102 y para el microcontrolador ESP32CAM.
--Mosquitto.
--NodeRed.
--MySQL para Ubuntu.
+- Mosquitto.
+- NodeRed.
+- MySQL para Ubuntu.
 
 ## Desarrollo 
 Para comenzar, necesitamos desarrollar el programa correspondiente para el microcontrolador y los senosres que tenemos que utilizar.
