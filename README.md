@@ -35,12 +35,19 @@ Dentro de este repositorio encontraremos todo lo necesario para realizar un dete
 	
 ## Materiales electrónicos / sensores a utilizar
 -Protoboard.
+
 -Jumpers.
+
 -Microcontrolador ESP32CAM.
+
 -2 Resistencias de 4.7 K Ω.
+
 -Sensor MAX30102 para ritmo cardíaco y saturación de Oxígeno.
+
 -Sensor de temperatura MLX90614.
+
 -Convertidor FTDI TTL-USB Serial Fy232RL.
+
 -Cable micro USB a USB.
 
 ## Software a Utilizar
