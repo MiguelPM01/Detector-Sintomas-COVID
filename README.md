@@ -52,10 +52,15 @@ Dentro de este repositorio encontraremos todo lo necesario para realizar un dete
 
 ## Software a Utilizar
 - Máquina virtual con sistema operativo Ubuntu, de preferencia la versión 20.04 LTS.
+ 
 - IDE de Arduino para Ubuntu.
+ 
 - Bibliotecas para los sensores MLX90614, MAX30102 y para el microcontrolador ESP32CAM.
+ 
 - Mosquitto.
+ 
 - NodeRed.
+
 - MySQL para Ubuntu.
 
 ## Desarrollo 
