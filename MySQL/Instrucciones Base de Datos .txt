@@ -1,4 +1,4 @@
-Nota: Todos los comandos que a continuación se muestran serán utilizados en la terminal de nuestro sistema Operativo Ubuntu
+**Nota: Todos los comandos que a continuación se muestran serán utilizados en la terminal de nuestro sistema Operativo Ubuntu
 
 Instalar mysql server por terminal 
 
