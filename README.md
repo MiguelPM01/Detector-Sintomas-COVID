@@ -11,34 +11,36 @@ Dentro de este repositorio encontraremos todo lo necesario para realizar un dete
 
 	
 ## Materiales electrónicos / sensores a utilizar
-- Protoboard.
+- [Protoboard](https://articulo.mercadolibre.com.mx/MLM-705443986-protoboard-830-puntos-mb-102-_JM#position=1&search_layout=stack&type=item&tracking_id=da8ad5fa-5d88-41dd-aab2-cd3e65bf6b23)
 
-- Jumpers macho a macho.
+- [Jumpers macho a macho](https://articulo.mercadolibre.com.mx/MLM-560093984-40-cables-dupont-macho-macho-10-cm-protoboard-pic-arduino-_JM?matt_tool=91188883&matt_word=&matt_source=google&matt_campaign_id=15698047816&matt_ad_group_id=143431914600&matt_match_type=&matt_network=g&matt_device=c&matt_creative=620253690479&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=116937574&matt_product_id=MLM560093984&matt_product_partition_id=1638503335377&matt_target_id=pla-1638503335377&gclid=Cj0KCQjwguGYBhDRARIsAHgRm4_UVnUHiSvv3C-Y2R6XGBFkNuszdBsPp4hlbI7Ri8FFMtlxL8IyxSsaAr5IEALw_wcB)
 
-- Microcontrolador ESP32CAM.
+- [Microcontrolador ESP32CAM](https://articulo.mercadolibre.com.mx/MLM-1354031311-esp32-cam-wifi-bluetooth-ch340-micro-usb-hw-297-16-pin-_JM#position=1&search_layout=grid&type=pad&tracking_id=cb2771c1-8ad3-438b-9316-de6117c45b2d#position=1&search_layout=grid&type=pad&tracking_id=cb2771c1-8ad3-438b-9316-de6117c45b2d&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=1&ad_click_id=OTEyMTI3MWQtYmMyYS00MzZmLTgyOTUtYzQ5NGQ1MzkyOTE2)
 
-- 2 Resistencias de 4.7 K Ω.
+- [ Resistencias de 4.7 K Ω](https://articulo.mercadolibre.com.mx/MLM-660627026-200-resistencias-14-w-1-pelicula-metalica-varios-valores-_JM?searchVariation=32042007841#searchVariation=32042007841&position=2&search_layout=stack&type=item&tracking_id=88404fe0-434a-4841-9356-0319120b56fe)
 
-- Sensor MAX30102 para ritmo cardíaco y saturación de Oxígeno.
+- [ensor MAX30102 para ritmo cardíaco y saturación de Oxígeno](https://articulo.mercadolibre.com.mx/MLM-1427334301-modulo-sensor-frecuencia-cardiaca-oximetro-max30100-_JM#position=7&search_layout=stack&type=item&tracking_id=363f1404-ba6d-437d-93a8-3d2aea450fd2)
 
-- Sensor de temperatura MLX90614.
+- [ensor de temperatura MLX90614](https://articulo.mercadolibre.com.mx/MLM-1315023878-sensor-temperatura-termometro-infrarrojo-gy-906-mlx90614-_JM?matt_tool=91188883&matt_word=&matt_source=google&matt_campaign_id=15698047816&matt_ad_group_id=143431914600&matt_match_type=&matt_network=g&matt_device=c&matt_creative=620253690479&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=117474830&matt_product_id=MLM1315023878&matt_product_partition_id=1638503335577&matt_target_id=aud-1574484920380:pla-1638503335577&gclid=Cj0KCQjwguGYBhDRARIsAHgRm49jWX4yeWCvwodq2ApHIUFhh7DkZvCfohgEes43ls9l9aTwG0T7hsoaAgEXEALw_wcB)
 
-- Convertidor FTDI TTL-USB Serial Fy232RL.
+- [onvertidor FTDI TTL-USB Serial Fy232RL](https://articulo.mercadolibre.com.mx/MLM-660592083-modulo-adaptador-serie-usb-a-serial-ttl-ftdi-ft232rl-33v-5v-_JM#position=2&search_layout=stack&type=pad&tracking_id=3f2ee2da-0338-4f85-ac72-4a20754b51da#position=2&search_layout=stack&type=pad&tracking_id=3f2ee2da-0338-4f85-ac72-4a20754b51da&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=2&ad_click_id=ZjliZTY3YmMtMzVlNi00NmYwLWFjOWItOWUxYWE0MWNjODQw)
 
-- Cable USB-A a USB-Mini.
+-[Cable USB-A a USB-Mini](https://articulo.mercadolibre.com.mx/MLM-555275297-cable-usb-20-a-macho-a-mini-b-5-pin-18m-calibre-30-_JM#position=4&search_layout=grid&type=item&tracking_id=2cd0f15a-25c8-4abd-b086-a7c2c9f3f2e3)
 
 ## Software a Utilizar
+- [VirtualBox](https://www.virtualbox.org/)
+
 - [Máquina virtual con sistema operativo Ubuntu, de preferencia la versión 20.04 LTS.](https://releases.ubuntu.com/20.04/)
  
-- IDE de Arduino para Ubuntu.
+- [IDE de Arduino](https://www.arduino.cc/en/software)
  
-- Bibliotecas para los sensores MLX90614, MAX30102 y para el microcontrolador ESP32CAM.
+- [Configuración de Arduino para poder trabajar con ESP32](https://programarfacil.com/esp8266/programar-esp32-ide-arduino/)
  
-- Mosquitto.
+- [Mosquitto](https://mosquitto.org/)
  
-- NodeRed.
+- [NodeRed](https://nodered.org/)
 
-- MySQL para Ubuntu.
+- [MySQL](https://www.mysql.com/)
 
 ## Desarrollo 
 Para comenzar, necesitamos desarrollar el programa correspondiente para el microcontrolador y los senosres que tenemos que utilizar.
