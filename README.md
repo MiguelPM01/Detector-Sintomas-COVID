@@ -64,7 +64,8 @@ Para este ejercicio es necesario tomar en cuenta los siguientes puntos:
 
 - Tener configurada la IDE de Arduino para poder cargar los programas al microcontrolador ESP32CAM.
 - NodeJS configurado para poder trabajar con NodeRed y tener agregados los nodos Dashboard, MySQL y Mail.
-- MQTT Mosquitto configurado. Tendrás que modificar el archivo mosquitto.conf para que acepte conexiones externas y no autentificadas y por último, deberás tener el firewall de Ubuntu abierto para permitir conexiones en el puerto 1883. [En este enlace podrás consultar como poder habilitar el Firewall en Ubuntu](https://www.hostinger.mx/tutoriales/como-configurar-firewall-ubuntu)
+- MQTT Mosquitto configurado. Tendrás que modificar el archivo mosquitto.conf para que acepte conexiones externas y no autentificadas y por último, deberás tener el firewall de Ubuntu abierto para permitir conexiones en el puerto 1883. 
+- [En este enlace podrás consultar como poder habilitar el Firewall en Ubuntu](https://www.hostinger.mx/tutoriales/como-configurar-firewall-ubuntu)
 
 ## 
 
